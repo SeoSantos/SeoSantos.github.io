@@ -516,7 +516,7 @@ footer .copy p {
   margin-bottom: 15px;
 }
 .servicioui-ux h3 span {
-  color: #1746a2;
+  color: var(--azul);
 }
 /* .servicioui-ux p{
   color: var(--color-azul);
