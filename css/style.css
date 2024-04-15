@@ -6,7 +6,7 @@
   --blanco: #f9f9f9;
   --gris: #e6e9ed;
   --azul: #914cb5;
-  --azul-hover: #914cb5;
+  --azul-hover: rgb(145, 76, 181);
 }
 body {
   background: var(--background-color);
